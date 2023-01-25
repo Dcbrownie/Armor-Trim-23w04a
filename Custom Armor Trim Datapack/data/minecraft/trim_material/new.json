@@ -1,0 +1,10 @@
+{
+  "asset_name": "new",
+  "description": {
+    "color": "#16DBB7",
+    "text": "Custom Armor Material"
+  },
+  "incompatible_armor_material": "new",
+  "ingredient": "minecraft:grass_block",
+  "item_model_index": 1.1
+}

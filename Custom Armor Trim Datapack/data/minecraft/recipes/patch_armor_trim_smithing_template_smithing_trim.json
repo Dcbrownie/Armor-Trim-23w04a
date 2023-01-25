@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_trim",
+  "addition": {
+    "item": "minecraft:grass_block"
+  },
+  "base": {
+    "tag": "minecraft:trimmable_armor_helmet"
+  },
+  "template": {
+    "item": "minecraft:book"
+  }
+}

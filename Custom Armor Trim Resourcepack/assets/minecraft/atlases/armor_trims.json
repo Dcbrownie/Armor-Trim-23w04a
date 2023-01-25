@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/models/armor/patch"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette_new",
+            "permutations": {
+                "new": "trims/color_palettes/new"
+            }
+        }
+    ]
+}
