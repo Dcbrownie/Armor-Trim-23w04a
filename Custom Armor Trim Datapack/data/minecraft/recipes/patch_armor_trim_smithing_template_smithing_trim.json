@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_trim",
   "addition": {
-    "tag": "minecraft:trim_materials"
+    "item": "minecraft:grass_block"
   },
   "base": {
     "tag": "minecraft:trimmable_armor_helmet"
