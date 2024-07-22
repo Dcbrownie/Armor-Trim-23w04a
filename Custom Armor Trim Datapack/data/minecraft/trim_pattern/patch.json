@@ -1,5 +1,6 @@
 {
   "asset_id": "minecraft:patch",
+  "decal": false,
   "description": "Custom Eye Patch Trim",
   "template_item": "minecraft:book"
 }
